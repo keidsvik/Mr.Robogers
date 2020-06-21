@@ -16,8 +16,8 @@ A webpage with an input field where the user can enter a number and receive outp
 
 #### Open with Bash/GitBash:
 1. Clone this repository onto your computer
-`https://github.com/keidsvik/independent-project-06122020`
-2. Navigate to the `independent-project-06122020` directory in your preferred text editor:
+`https://github.com/keidsvik/Mr.Robogers`
+2. Navigate to the `https://github.com/keidsvik/Mr.Robogers` directory in your preferred text editor:
 `code`.
 3. Open index.html in preferred browser:
 `open index.html`
