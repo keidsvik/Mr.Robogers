@@ -53,7 +53,7 @@ _Numbers that contain a 7, 8, 9, or 0_
 * Output: 7
 
 ## Known Bugs
-* 
+* N/A
 
 ## Technologies Used
 * HTML

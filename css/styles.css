@@ -16,6 +16,10 @@
     margin-top: 25px;
     font-family: 'Lora', cursive;
   }
+
+  #userInput {
+    width: 600px;
+  }
   
   .btn {
     margin-left: 500px;
