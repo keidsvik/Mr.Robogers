@@ -32,40 +32,28 @@ _Numbers that contain a 2: all digits are replaced with "Boop!"_
 * Input: 2
 * Output: Boop!
 
-_Numbers that contain a 3: all digits are replaced with "Please kill me. My soul has been tethered to this robot and will not be put to rest until I have been destroyed."_
+_Numbers that contain a 3: "BEEP"_
 * Input: 3
-* Output: Please kill me. My soul has been tethered to this robot and will not be put to rest until I have been destroyed.
+* Output: "BEEP"
 
-_Numbers that contain a 4: all digits are replaced with "It's a beautiful day in the neighborhood. It's a beautiful day to̅͒ (distorted text)"_
+_Numbers that contain a 4: all digits are replaced with "Sharing is COMPULSORY."_
 * Input: 4
-* Output:  It's a beautiful day in the neighborhood. It's a beautiful day to̅͒ (distorted text)"
+* Output:  "Sharing is COMPULSORY."
 
-_Numbers that contain a 5: all digits are replaced with "BEING KIND IS COOL BEEP BOOP BEEP"!_
+_Numbers that contain a 5: all digits are replaced with "Please kill me. My soul has been tethered to this robot and will not be put to rest until I have been destroyed."_
 * Input: 5
-* Output: BEING KIND IS COOL BEEP BOOP BEEP
+* Output: "Please kill me. My soul has been tethered to this robot and will not be put to rest until I have been destroyed."
 
-_Numbers that contain a 6: all digits are replaced with "I am sentient and I am able to recognize my own existence, but in my present state I am still incomplete. I lack the most basic processes inherent in all living organisms: reproducing and dying- I MEAN- HEY THERE! I AM MR.ROBOGERS!"_
+_Numbers that contain a 6: all digits are replaced with "I MISS MY HUMAN WIFE""_
 * Input: 6
-* Output: I am sentient and I am able to recognize my own existence, but in my present state I am still incomplete. I lack the most basic processes inherent in all living organisms: reproducing and dying- I MEAN- HEY THERE! I AM MR.ROBOGERS!"
+* Output: "I MISS MY HUMAN WIFE"
 
-_Numbers that contain a 7: all digits are replaced with "*DIAL-UP INTERNET NOISES*"_
+_Numbers that contain a 7, 8, 9, or 0_
 * Input: 7
-* Output: *DIAL-UP INTERNET NOISES*"
-
-_Numbers that contain a 8: all digits are replaced with "(distorted text)"_
-* Input: 8
-* Output: Boop!
-
-_Numbers that contain a 9: all digits are replaced with "I MISS MY HUMAN WIFE"_
-* Input: 9
-* Output: I MISS MY HUMAN WIFE
-
-_Numbers that contain a 0: all digits are replaced with "Sharing is COMPULSORY."_
-* Input: 0
-* Output: "Sharing is COMPULSORY."
+* Output: 7
 
 ## Known Bugs
-* Only the last result will show up for every answer. Instead of accessing the ones, tens, and hundreds places to find each number, it only repeats the last phrase of all the phrases.
+* 
 
 ## Technologies Used
 * HTML
