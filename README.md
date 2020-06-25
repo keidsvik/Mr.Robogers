@@ -1,4 +1,5 @@
-# Programming Quiz | Independent Project 06/05/2020
+
+# Mr.Robogers | Independent Project 06/05/2020
 
 #### Let Mr.Robogers teach you about sharing and friendship by entering a number.
 
@@ -16,8 +17,8 @@ A webpage with an input field where the user can enter a number and receive outp
 
 #### Open with Bash/GitBash:
 1. Clone this repository onto your computer
-`https://github.com/keidsvik/Mr.Robogers`
-2. Navigate to the `https://github.com/keidsvik/Mr.Robogers` directory in your preferred text editor:
+`https://github.com/keidsvik/independent-project-06122020`
+2. Navigate to the `independent-project-06122020` directory in your preferred text editor:
 `code`.
 3. Open index.html in preferred browser:
 `open index.html`
@@ -26,29 +27,21 @@ A webpage with an input field where the user can enter a number and receive outp
 
 _Numbers that contain a 1: all digits are replaced with "Immediate Response needed: Are you willing to occupy nearby residency to this unit?""_
 * Input: 1
-* Output: Immediate Response needed: Are you willing to occupy nearby residency to this unit?
+* Output: 0, Immediate Response needed: Are you willing to occupy nearby residency to this unit?
 
 _Numbers that contain a 2: all digits are replaced with "Boop!"_
 * Input: 2
-* Output: Boop!
+* Output: 0, Immediate Response needed: Are you willing to occupy nearby residency to this unit?, Boop!
 
 _Numbers that contain a 3: "BEEP"_
 * Input: 3
-* Output: "BEEP"
+* Output:  0, Immediate Response needed: Are you willing to occupy nearby residency to this unit?, Boop!, "BEEP"
 
-_Numbers that contain a 4: all digits are replaced with "Sharing is COMPULSORY."_
-* Input: 4
-* Output:  "Sharing is COMPULSORY."
+_Numbers with two digits_
+* Input: 12
+* Output: 0, Immediate Response needed: Are you willing to occupy nearby residency to this unit?, Boop!, "BEEP", 4, 5, 6, 7, 8, 9, Immediate Response needed: Are you willing to occupy nearby residency to this unit?, Immediate Response needed: Are you willing to occupy nearby residency to this unit?, Boop!
 
-_Numbers that contain a 5: all digits are replaced with "Please kill me. My soul has been tethered to this robot and will not be put to rest until I have been destroyed."_
-* Input: 5
-* Output: "Please kill me. My soul has been tethered to this robot and will not be put to rest until I have been destroyed."
-
-_Numbers that contain a 6: all digits are replaced with "I MISS MY HUMAN WIFE""_
-* Input: 6
-* Output: "I MISS MY HUMAN WIFE"
-
-_Numbers that contain a 7, 8, 9, or 0_
+_Numbers that contain a 4, 5, 6, 7, 8, 9, or 0_
 * Input: 7
 * Output: 7
 
